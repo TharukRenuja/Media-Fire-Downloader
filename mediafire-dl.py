@@ -98,7 +98,8 @@ class MediafireDownloader:
 
     #@staticmethod
     def download_file(self, mediafire_file_link, parent, file_name=''):
-        cwd = os.getcwd()
+        #cwd = os.getcwd()
+        cwd = "/storage/emulated/0/MediafireFiles/"
         self.dl_page_url = mediafire_file_link
         print('----------------')
         print('Getting link from ' + self.dl_page_url)
