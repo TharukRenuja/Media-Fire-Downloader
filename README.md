@@ -1,7 +1,7 @@
 Installation:
 
     $ pip install bs4 requests tqdm
-    $ git clone https://github.com/mohamed-elsaka/mediafire-dl.git
+    $ git clone https://github.com/TharukRenuja/Media-Fire-Downloader.git
 
 Usage:
 
